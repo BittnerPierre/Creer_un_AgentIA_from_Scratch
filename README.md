@@ -8,7 +8,7 @@ A partir d'une annonce existante et d'une nouvelle fiche de poste, nous généro
 
 Vous pouvez retrouver la [vidéo](https://youtu.be/wGIPXu3IsAY) sur Youtube.
 
-https://youtu.be/wGIPXu3IsAY
+[![Construis ton agent IA sans coder avec Le Chat de Mistral AI](https://img.youtube.com/vi/wGIPXu3IsAY/0.jpg)](https://www.youtube.com/watch?v=wGIPXu3IsAY)
 
 ## Exemples
 
