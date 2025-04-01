@@ -6,7 +6,7 @@ Nous utilisons le cas d'usage "Génération d'une offre d'emploi".
 
 A partir d'une annonce existante et d'une nouvelle fiche de poste, nous générons une nouvelle offre d'emploi en respectant la structure, fond et forme de l'annonce modèle avec les informations spécifiques de la fiche de poste.
 
-Vous pouvez retrouver la vidéo sur Youtube.
+Vous pouvez retrouver la [vidéo](https://youtu.be/wGIPXu3IsAY) sur Youtube.
 
 ## Exemples
 
