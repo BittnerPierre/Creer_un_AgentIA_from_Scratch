@@ -8,6 +8,8 @@ A partir d'une annonce existante et d'une nouvelle fiche de poste, nous généro
 
 Vous pouvez retrouver la [vidéo](https://youtu.be/wGIPXu3IsAY) sur Youtube.
 
+https://youtu.be/wGIPXu3IsAY
+
 ## Exemples
 
 Ce répertoire contient les exemples utilisés dans la vidéo:  
