@@ -1,3 +1,5 @@
+# Instructions Agent pour Le Chat de Mistral AI
+
 Pour créer un Agent IA dans le Chat de Mistral AI
 
 Créer une nouvelle conversation, puis commencer par saisir un "@" (arabase). Une fenètre pop-up apparaît.
