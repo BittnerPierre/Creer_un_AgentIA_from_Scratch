@@ -19,12 +19,12 @@ Ce répertoire contient les exemples utilisés dans la vidéo:
 
 Ce répertoire contient les prompts utilisés dans la vidéo.
 
-- [README] (Prompts_Assistants/Readme.md) Prompts Assistants
+- [README](Prompts_Assistants/Readme.md) Prompts Assistants
 
 
 ## Instructions
 
 Ces répertoires contiennent les prompts pour créer un **Agent IA** dans Le Chat et un GPTs dans ChatGPT.
 
-- [README] (Instructions_Agent_LeChat/Readme.md) **Agent** pour Le Chat
-- [README] (Instructions_GPTs_OpenAI/Readme.md) **GPT** pour ChatGPT
+- [README](Instructions_Agent_LeChat/Readme.md) **Agent** pour Le Chat
+- [README](Instructions_GPTs_OpenAI/Readme.md) **GPT** pour ChatGPT
