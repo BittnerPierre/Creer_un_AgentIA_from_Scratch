@@ -1,0 +1,33 @@
+# Exemple 4
+
+## Exemple d'entrée
+
+Scorecard Compétences et Pré-requis :
+Hard Skills :
+- Maîtrise des outils de support client (Zendesk, HubSpot, Freshdesk)
+- Analyse de données (Google Sheets, Power BI, Looker)
+- Expérience en gestion de crise
+Soft Skills :
+- Empathie et écoute active
+- Capacité à gérer le stress
+- Leadership et esprit d’équipe
+Expérience : 3 à 6 ans en relation client  
+Formation : Bac+3/+5
+
+## Exemple de Sortie
+
+## **Profil recherché**  
+**Compétences techniques (Hard Skills)** :  
+- Maîtrise des outils de support client (Zendesk, HubSpot, Freshdesk)  
+- Analyse de données clients (Google Sheets, Power BI, Looker)  
+- Expérience en gestion de crise et relation client  
+
+**Compétences comportementales (Soft Skills)** :  
+- Empathie et écoute active  
+- Capacité à gérer le stress  
+- Leadership et esprit d’équipe  
+
+ **Expérience et Formation** :  
+- Expérience : 3 à 6 ans en relation client  
+- Formation : Bac+3/+5  
+- Vous parlez couramment anglais

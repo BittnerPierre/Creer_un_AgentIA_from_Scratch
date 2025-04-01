@@ -1,0 +1,18 @@
+Exercice pratique -> rassembler les directives précentes dans un seul groupe d'instructions
+
+Dans l'ordre:
+
+1. Contexte (Role Prompting)
+Définir l’identité, l’objectif et le ton de l’assistant pour cadrer son comportement.
+
+2. Entrées attendues (Input Requirements) 
+Spécifier les documents nécessaires (fiche de poste + annonce modèle) et le comportement si une info manque.
+
+3. Décomposer la tâche (Step-by-Step Instructions)
+Lister les étapes que l’assistant doit suivre pour générer le résultat attendu.
+
+4. Structurer la sortie (Output Formatting)
+Imposer un format clair (sections, bullet points, emojis, balises, etc.) pour une annonce directement publiable.
+
+5. Montrer un exemple (Few-Shot Prompting)
+Fournir une interaction type ou un exemple input/output pour guider l’assistant.

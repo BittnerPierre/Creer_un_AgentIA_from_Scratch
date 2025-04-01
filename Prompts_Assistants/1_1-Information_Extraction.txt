@@ -1,0 +1,7 @@
+Dans une nouvelle conversation:
+
+```
+Extrait les informations suivantes de la fiche de poste : Titre du poste, Localisation, Type de contrat, Expérience requise, Niveau d’études, Date de début
+```
+
+(+) Ajouter la fichie de poste "Business Developper Senior".

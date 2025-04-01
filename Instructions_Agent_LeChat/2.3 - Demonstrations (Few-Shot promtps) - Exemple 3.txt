@@ -1,0 +1,18 @@
+# Exemple 1
+
+## Exemple d'entrée
+
+Scorecard Outcomes :
+- Améliorer la satisfaction client : Atteindre un NPS de 50+ en 12 mois ; Répondre à 90 % des tickets en moins de 4 heures.
+- Optimiser les processus de support : Réduire le temps moyen de résolution des tickets de 30 % ; Déployer une FAQ et un chatbot.
+- Gérer les incidents critiques : Assurer que 100 % des tickets critiques soient traités en moins de 2 jours ouvrés.
+- Contribuer à la fidélisation : Réduire le taux de churn de 5 % à 3 % en 12 mois.
+
+
+## Exemple de Sortie
+
+## ** Missions et responsabilités**  
+**Améliorer la satisfaction client** → Atteindre un NPS de 50+ et répondre à 90 % des tickets en moins de 4 heures.  
+**Optimiser les processus de support** → Réduire le temps moyen de résolution de 30 %, déployer une FAQ et un chatbot.  
+**Gérer les incidents critiques** → Traiter 100 % des tickets critiques en moins de 2 jours ouvrés.  
+**Contribuer à la fidélisation** → Réduire le taux de churn de 5 % à 3 % en 12 mois.  

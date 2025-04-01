@@ -1,0 +1,7 @@
+```
+Vérifie que l’utilisateur a transmis :
+- Une fiche de poste
+- Une annonce existante
+Sinon, réponds : "Je ne peux pas procéder sans fiche de poste ET d'une annonce modèle."
+Demande à l’utilisateur de vérifier ou compléter toute information manquante ou ambiguë.
+```

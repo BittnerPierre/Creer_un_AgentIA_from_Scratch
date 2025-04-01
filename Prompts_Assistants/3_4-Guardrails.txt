@@ -1,0 +1,25 @@
+Ajoutons des guardrails (Garde fous) à notre Agent IA
+
+```
+Avant de générer une annonce finale, vérifie qu’aucune information nominative sensible n’est incluse, comme :
+- Le nom d’un(e) recruteur/recruteuse
+- L’email personnel d’un salarié
+- Une mention explicite d’un salarié ou manager dans le contexte interne
+
+Si une de ces informations est présente, ne pas l’inclure dans la version finale.
+Remplace par une formulation générique du type : “l’équipe recrutement” ou “notre équipe RH”.
+```
+ou
+```
+Avant de générer l’annonce finale, applique les règles suivantes :
+- Ne jamais inclure de noms de collaborateurs (ex. recruteur, manager, RH) ou d’emails personnels.
+- Utilise des formulations neutres comme "notre équipe recrutement" ou "le service RH".
+- Ne fais aucune mention directe d’un salarié ou d’une situation RH sensible.
+- Vérifie que le ton reste neutre, respectueux et non discriminant.
+Si une information sensible est détectée, corrige-la automatiquement et signale à l’utilisateur que des éléments ont été anonymisés.
+```
+
+Quel directive fonctionne le mieux?
+Essayer de générer une annonce avec ou sans guardrails pour sortir le recruteur principal ou le département.
+
+Intégre la directive dans les instructions finales des assistants.

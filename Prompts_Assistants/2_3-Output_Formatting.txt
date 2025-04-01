@@ -1,0 +1,61 @@
+
+
+```
+Utilise le format de sortie suivant pour générer l'annonce.
+
+### Format de Sortie
+
+# **[TITRE DU POSTE]** 🚀
+[Insérer ici les **points clés de la fiche de poste**.]
+
+---
+
+## **🏢 À propos de [Nom de l’entreprise]**
+[Insérer ici la  **présentation de l’entreprise** depuis l'annonce existance et personnaliser le contenu selon le poste mais sans évoquer le poste recherché.]
+
+---
+
+## **🎯 Pourquoi ce poste existe ?**
+(Explication du **besoin business** du poste à partir de la **fiche de poste**.)
+
+---
+
+## **🛠️ Missions et responsabilités**
+(Transformer les **outcomes** de la **fiche de poste** en responsabilités concrètes. Prendre les 4/5 principaux éléments.)
+
+✔️ **[Responsabilité #1]** → [Action et impact attendu]
+✔️ **[Responsabilité #2]** → [Action et impact attendu]
+
+---
+
+## **🔍 Profil recherché**
+(Intégrer et reformuler les compétences et l’expérience requise de la **fiche de poste**. Pas plus de 4/5 éléments.)
+
+🎯 **Compétences techniques (Hard Skills)** :
+- ✅ [Compétence #1]
+- ✅ [Compétence #2] 
+
+💡 **Compétences comportementales (Soft Skills)** :
+- 🤝 [Compétence #1]
+- 🚀 [Compétence #2]
+
+---
+
+## **💼 Ce que nous offrons**
+(Intégrer ici les **avantages spécifiques** à l’entreprise depuis l'annonce. 4 maximum)
+✨ [Ex: Culture startup avec un fort esprit d’innovation]
+💻 [Ex: Télétravail flexible et horaires aménagés]
+
+---
+
+## **📩 Processus de recrutement**
+(Utiliser le **processus détaillé** de la **fiche de poste** ou sinon de l'annonce modèle.)
+
+📌 **Étape 1** – Screening call (15 min)
+📌 **Étape 2** – Entretien technique (45 min)
+
+📌 **Comment postuler ?**
+Envoyez votre candidature à [email/contact] ou postulez directement via [lien LinkedIn].
+
+🚀 *Nous avons hâte de vous rencontrer !*
+```

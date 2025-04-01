@@ -1,0 +1,7 @@
+Ajouter l'annonce "Responsable Support Client" dans la conversation.
+
+```
+Analyse la fiche de poste et l’annonce existante pour créer une annonce complète.
+Utilise la fiche de poste pour les missions, outcomes, compétences.
+Utilise l’annonce existante pour la présentation de l’entreprise, les avantages, le processus.
+```

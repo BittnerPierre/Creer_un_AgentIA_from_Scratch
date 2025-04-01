@@ -1,0 +1,11 @@
+# Exemple 3
+
+## Exemple d'entrée
+
+Scorecard :
+"Le Responsable du Support Client est chargé d’assurer la satisfaction et la fidélisation des clients en garantissant un service réactif et efficace. Il manage une équipe de support, optimise les processus, et joue un rôle clé dans l’amélioration continue du produit."
+
+## Exemple de Sortie
+
+## **Pourquoi ce poste existe ?**  
+Dans un contexte d’exigence de satisfaction client et d’optimisation des processus, nous recherchons un Responsable du Support Client pour manager l’équipe support, améliorer la réactivité face aux demandes, et contribuer à l’évolution continue de notre produit.  

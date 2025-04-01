@@ -1,0 +1,106 @@
+Etape 1, prendre le prompt qui ne fonctionne pas comme attendu
+
+```
+Transforme les outcomes de la fiche de poste en responsabilités concrètes. Prends-les 4 ou 5 principaux.
+Format attendu : 
+####
+🛠️ Vos missions et responsabilités
+✔️ [Responsabilité #1] → [Action et impact attendu]
+####
+<exemple>
+# Input 
+Améliorer la satisfaction client – Atteindre un NPS de 50+ en 12 mois.
+- Répondre à 90 % des tickets en moins de 4 heures.
+- Mettre en place un questionnaire de satisfaction.
+
+# Output 
+- Améliorer la satisfaction et la fidélisation des clients
+</exemple>
+
+Fiche de poste:
+"""
+Outcomes:
+Optimiser les processus de support – Réduire le temps moyen de résolution des tickets de 30 %.
+- Sous-objectif 2.1 : Déployer une FAQ et une base de connaissances en libre-service.
+- Sous-objectif 2.2 : Mettre en place un chatbot pour gérer les demandes récurrentes.
+
+Améliorer la gestion des incidents et escalades – Assurer que 100 % des tickets critiques sont traités en moins de 2 jours ouvrés.
+- Sous-objectif 3.1 : Définir des SLAs (Service Level Agreements) clairs avec l’équipe technique.
+- Sous-objectif 3.2 : Organiser une revue mensuelle des incidents majeurs avec les équipes techniques.
+"""
+Résultat: 
+```
+
+Regarder le résultat.
+
+Demander de l'aide à l'assistant en lui demandant une explication et une solution :
+
+```
+Je m'attends à avoir le résultat suivant :
+
+"""
+🛠️ Vos missions et responsabilités
+✔️ Optimiser les processus de support → Réduire le temps moyen de résolution des tickets de 30 %.
+✔️ Assurer la gestion des incidents critiques → Traiter 100 % des tickets prioritaires en moins de 2 jours ouvrés.
+"""
+
+ou mieux
+"""
+🛠️ Vos missions et responsabilités
+- Optimiser les processus de support pour une résolution plus rapide.
+- Gérer efficacement les incidents critiques.
+""" 
+Pourquoi ce n'est pas le bon résultat ? Peux tu corriger mon prompt ?
+```
+
+Sa réponse: 
+
+```
+Excellente remarque 👌 Ce que tu observes vient d'une **incompréhension entre la consigne implicite** et ce que tu as réellement écrit dans ton prompt. Ton **intention était claire** (obtenir une version condensée des *outcomes* en responsabilités concrètes), **mais le format demandé** dans ton exemple ("✔️ [Responsabilité] → [Action et impact]") est en fait un peu plus ambigu, et **ouvre la porte à des réponses détaillées**.
+
+---
+
+### 🔍 Pourquoi le résultat n’est pas ce que tu attends ?
+
+1. **Ton exemple contient deux types de sorties contradictoires :**
+   - Le premier est **riche et verbeux** :  
+     `✔️ Améliorer la satisfaction et la fidélisation des clients`
+   - Le second (ce que tu attends) est **synthétique et orienté action** :  
+     `✔️ Optimiser les processus de support → Réduire le temps moyen de résolution des tickets de 30 %.`
+
+2. **Tu n’as pas explicitement demandé une version condensée.** En disant « transforme en responsabilités concrètes » sans plus de précision, on peut comprendre que tu souhaites aussi reformuler en langage opérationnel.
+
+---
+
+### ✅ Correction du prompt pour obtenir le format que tu veux
+
+Voici un prompt retravaillé qui **verrouille la forme attendue** :
+
+---
+
+**Prompt corrigé :**
+
+> Transforme les *outcomes* de la fiche de poste en **responsabilités synthétiques et concrètes**, en conservant uniquement les 4 à 5 principales.
+> 
+> 🎯 Format attendu :
+> ```
+> 🛠️ Vos missions et responsabilités
+> - [Verbe d’action] [objectif ou champ d’action].
+> - ...
+> ```
+> ou, si tu préfères un format plus formel :
+> ```
+> 🛠️ Vos missions et responsabilités
+> ✔️ [Responsabilité] → [Impact mesurable ou attendu].
+> ✔️ ...
+> ```
+> 
+> Ne reformule pas en phrases longues, reste synthétique.
+
+---
+
+Tu peux aussi ajouter à la fin :
+> Ne détaille pas les sous-objectifs. Garde une formulation au niveau des objectifs principaux.
+
+Souhaites-tu que je réapplique ce prompt corrigé sur ta fiche de poste initiale pour te montrer le résultat attendu ?
+```

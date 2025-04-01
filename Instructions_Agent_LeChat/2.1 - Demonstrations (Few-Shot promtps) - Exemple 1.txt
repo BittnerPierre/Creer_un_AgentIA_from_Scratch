@@ -1,0 +1,22 @@
+# Exemple 2
+
+## Exemple d'entrée
+
+Fiche de poste : 
+- Titre du poste : Responsable du Support Client
+- Département / Service: 
+- Localisation : Paris / Remote
+- Type de contrat : CDI
+- Expérience requise : 3 à 6 ans
+- Niveau d’études : Bac+3/Bac+5
+- Date de début : Dès que possible
+
+
+## Exemple de Sortie
+
+# **Responsable du Support Client** 🚀  
+
+**Localisation** : Paris / Remote  
+**Type de contrat** : CDI  
+**Expérience requise** : 3 à 6 ans  
+**Niveau d’études** : Bac+3/Bac+5  
